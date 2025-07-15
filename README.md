@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🏫 **Computer Science & Engineering Student** at **IIIT Ranchi**
-- 📊 **CGPA:** 8.31/10.0
+
 - 💻 **Passionate about:** MERN Development, DSA & Open Source
 - 🌱 **Currently learning:** Advanced React Patterns & System Design
 - 🎯 **Goal:** Contributing to impactful open-source projects
