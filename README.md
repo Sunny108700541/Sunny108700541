@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🏫 **Computer Science & Engineering Student** at **IIIT Ranchi**
-
+- 📊 **CGPA:** 8.31/10.0
 - 💻 **Passionate about:** MERN Development, DSA & Open Source
 - 🌱 **Currently learning:** Advanced React Patterns & System Design
 - 🎯 **Goal:** Contributing to impactful open-source projects
@@ -40,6 +40,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -52,6 +53,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 </div>
 
@@ -76,18 +79,12 @@
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/SunnySingh27?theme=dark&font=Karma&ext=heatmap)
-
-</div>
-
 - 🥇 **JEE 2023:** Ranked in top 0.81% among 1.1M participants
 - 💻 **DSA:** Solved 300+ problems across various platforms
 - 🎓 **PW Skills:** Backend Development Certification
 - 🏫 **Sheryians Coding School:** Certified Developer
 - 🔧 **8085 Microprocessor:** Certified
-
+- 👥 **Leadership:** Student Council Representative at IIIT Ranchi
 
 ---
 
@@ -95,27 +92,26 @@
 
 <div align="center">
 
-[![Healthcare Management](https://github-readme-stats.vercel.app/api/pin/?username=Sunny108700541&repo=healthcare-management&theme=radical&hide_border=true)](https://github.com/Sunny108700541/healthcare-management)
-[![Real-time Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Sunny108700541&repo=realtime-chat-app&theme=radical&hide_border=true)](https://github.com/Sunny108700541/realtime-chat-app)
-[![E-commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Sunny108700541&repo=ecommerce-platform&theme=radical&hide_border=true)](https://github.com/Sunny108700541/ecommerce-platform)
-[![News Aggregator](https://github-readme-stats.vercel.app/api/pin/?username=Sunny108700541&repo=news-aggregator&theme=radical&hide_border=true)](https://github.com/Sunny108700541/news-aggregator)
+[![Cartify](https://github-readme-stats.vercel.app/api/pin/?username=Sunny108700541&repo=cartify&theme=radical&hide_border=true)](https://github.com/Sunny108700541/cartify)
+[![ECOMEET](https://github-readme-stats.vercel.app/api/pin/?username=Sunny108700541&repo=ecomeet&theme=radical&hide_border=true)](https://github.com/Sunny108700541/ecomeet)
+[![Lead Generator AI](https://github-readme-stats.vercel.app/api/pin/?username=Sunny108700541&repo=lead-generator-ai&theme=radical&hide_border=true)](https://github.com/Sunny108700541/lead-generator-ai)
 
 </div>
 
-### 🏥 Healthcare Management System
-- **Tech Stack:** Node.js, Express.js, MongoDB, EJS, JavaScript, CSS
-- **Features:** Patient records, appointment scheduling, role-based access
-- **Highlights:** MongoDB aggregation, secure authentication
+### 🛒 Cartify - E-commerce Platform
+- **Tech Stack:** Node.js, Express.js, MongoDB, React.js, Redux, Tailwind CSS
+- **Features:** Product catalog, shopping cart, payment integration, user authentication
+- **Highlights:** Responsive design, secure transactions, admin dashboard
 
-### 💬 Real-time Chat Application
-- **Tech Stack:** Node.js, Express.js, Socket.io, EJS, WebRTC
-- **Features:** Instant messaging, video calling, Google OAuth
-- **Highlights:** Real-time communication, user-friendly UI
+### 💬 ECOMEET - Real-time Chat Application
+- **Tech Stack:** Node.js, Express.js, Socket.io, React.js, WebRTC, MongoDB
+- **Features:** Real-time messaging, video calls, group chats, file sharing
+- **Highlights:** WebSocket communication, peer-to-peer video calling
 
-### 🛒 E-commerce Platform (Blinkit Clone)
-- **Tech Stack:** Node.js, Express.js, MongoDB, EJS, JavaScript
-- **Features:** Product listing, search, admin panel
-- **Highlights:** File storage optimization, category management
+### 🤖 Lead Generator - AI Powered Tool
+- **Tech Stack:** Node.js, Express.js, React.js, AI/ML APIs, MongoDB
+- **Features:** Automated lead generation, AI-powered insights, data analytics
+- **Highlights:** Machine learning integration, intelligent lead scoring
 
 ---
 
