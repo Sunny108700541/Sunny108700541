@@ -1,0 +1,22 @@
+{
+  "name": "github-profile-sunny",
+  "version": "1.0.0",
+  "description": "Dynamic GitHub profile for Sunny Singh Chauhan",
+  "main": "index.js",
+  "scripts": {
+    "setup": "chmod +x scripts/*.sh && ./scripts/setup.sh",
+    "update-stats": "python3 scripts/update-stats.py",
+    "maintain": "./scripts/maintain-repo.sh",
+    "track-activity": "node scripts/track-contributions.js",
+    "update-readme": "python3 scripts/update-readme-template.py"
+  },
+  "keywords": ["github-profile", "readme", "automation", "mern-stack", "portfolio"],
+  "author": "Sunny Singh Chauhan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}

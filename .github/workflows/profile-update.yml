@@ -1,0 +1,51 @@
+name: Profile Auto-Update
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests
+        npm install
+        
+    - name: Update profile statistics
+      env:
+        GITHUB_USERNAME: ${{ github.repository_owner }}
+      run: |
+        python3 scripts/update-stats.py
+        node scripts/track-contributions.js
+        
+    - name: Update README
+      run: python3 scripts/update-readme-template.py
+      
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --staged --quiet || git commit -m "🤖 Auto-update profile stats - $(date '+%Y-%m-%d %H:%M:%S')"
+        git push
