@@ -13,13 +13,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🏫 **Computer Science & Engineering Student** at **IIIT Ranchi**
-- 📊 **CGPA:** 8.31/10.0
+
 - 💻 **Passionate about:** MERN Development, DSA & Open Source
 - 🌱 **Currently learning:** Advanced React Patterns & System Design
 - 🎯 **Goal:** Contributing to impactful open-source projects
 - 📍 **Location:** Rewa, Madhya Pradesh, India
 - 💬 **Ask me about:** JavaScript, React, Node.js, MongoDB
-- ⚡ **Fun fact:** Solved 300+ DSA problems and ranked top 0.81% in JEE 2023!
+- ⚡ **Fun fact:** Solved 350+ DSA problems and ranked top 0.81% in JEE 2023!
 
 ---
 
